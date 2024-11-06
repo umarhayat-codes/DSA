@@ -12,4 +12,3 @@ obj = Solution()
 print(obj.findMaxAverage([1,2,3,4,5,6],4))
             
         
-        
